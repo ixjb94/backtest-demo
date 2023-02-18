@@ -3,7 +3,6 @@ import {
 	Enter, Exit, BackTestOptions
 } from "../types/backtest"
 
-
 export class BackTest {
 
 	barCount: number
