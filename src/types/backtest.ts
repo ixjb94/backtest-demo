@@ -1,3 +1,8 @@
+export interface BackTestOptions {
+	barCount: number
+	pyramiding: number
+}
+
 export type GenericObject = { [key: string]: any }
 
 export type TradeType = "Long" | "Short"

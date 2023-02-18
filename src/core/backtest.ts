@@ -1,12 +1,8 @@
 import {
 	Trades, GenericObject,
-	Enter, Exit
+	Enter, Exit, BackTestOptions
 } from "../types/backtest"
 
-export interface BackTestOptions {
-	barCount: number
-	pyramiding: number
-}
 
 export class BackTest {
 
