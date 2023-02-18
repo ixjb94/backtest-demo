@@ -20,8 +20,5 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "*"
-	},
-	"dependencies": {
-		"@ixjb94/indicators": "^1.0.18"
 	}
 }
