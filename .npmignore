@@ -1,6 +1,12 @@
+node_modules
+config.ts
 test
 docs
-config.ts
 todo.md
-.vscode
 .cmd
+.vscode
+src/strategy
+web
+data
+images
+refrence
